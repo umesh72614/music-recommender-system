@@ -25,8 +25,6 @@ So, **Our Objective using above Models / Algorithms is to return an *Ordered (Ra
 
 # Instructions
 
-———————————————
-
 Code Folder Contains the Code for this Project
 
 The main Code is written inside of Jupyter Notebook .ipynb format file. Running it requires some Pre Computed Data which can be made available by me through Google Drive ( It’s more than 10 GB in Size ).
