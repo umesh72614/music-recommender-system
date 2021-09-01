@@ -44,9 +44,5 @@ Graphs Folder contains the Final Results Graphs Stored inside the Folder as .png
 
 The Whole Recommender System can be run through Jupyter Notebook / Kaggle Kernel(s) / Google Colab.
 
-—————————————
- Copyright 2021, Umesh Yadav
-—————————————
-
 ### License
 This project is distributed under [MIT license](https://opensource.org/licenses/MIT). Any feedback, suggestions are higly appreciated.
